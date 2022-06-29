@@ -12,4 +12,4 @@ ADD . /app
 
 EXPOSE 8080
 
-ENTRYPOINT python /app/app.py
+ENTRYPOINT python3 /app/app.py
