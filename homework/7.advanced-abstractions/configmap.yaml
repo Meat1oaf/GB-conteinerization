@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: prmetheus-config
+  name: prometheus-config
   namespace: default
 data:
   prometheus.yml: |
